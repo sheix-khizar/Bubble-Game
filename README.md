@@ -2,8 +2,6 @@
 
 A simple and fun bubble-clicking game built with vanilla JavaScript, HTML, and CSS. Click the correct number bubble as quickly as you can to score points before the timer runs out!
 
-![Bubble Game Screenshot](screenshot.png) <!-- Add a screenshot to your repo if possible -->
-
 ## 🕹️ How to Play
 
 1. A **target number** will be shown at the top.
